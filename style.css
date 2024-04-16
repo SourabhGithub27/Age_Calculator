@@ -1,0 +1,29 @@
+*{
+    background-color: #9AB0B4;
+    text-align: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+div{
+    border: 10px solid black;
+    border-color: red rgba(170, 50, 220, .6) green;
+    
+}
+h1{
+ color: #014D4E ;
+ font-weight: bold;
+ font-family: Arial, Helvetica, sans-serif;
+}
+label{
+    font-weight: bold;
+}
+
+button{
+    background-color: #5dbea3;
+}
